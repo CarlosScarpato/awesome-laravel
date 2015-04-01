@@ -61,7 +61,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for Eloquent models
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
-* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator
+* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator using DomPDF
+* [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using Wkhtmltopdf
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark wrapper
 * [Recaptcha](https://github.com/greggilbert/recaptcha) - reCaptcha validator
 * [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
@@ -71,10 +72,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
-* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) A DigitalOceanV2 bridge
-* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) A PHP GitHub API bridge
-* [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) A PHP Parse SDK bridge
-* [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) A Dropbox bridge
 
 ##### Working with Javascript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
